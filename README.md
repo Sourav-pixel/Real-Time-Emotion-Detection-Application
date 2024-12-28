@@ -2,6 +2,13 @@
 
 This project is a **Real-Time Emotion Detection App** that uses a Flask backend and a React.js frontend. The system processes video streams to detect human emotions using deep learning and provides audio feedback for the detected emotion. 
 
+---
+![Screenshot_20241228_132117](https://github.com/user-attachments/assets/97688b60-7249-47dd-97ec-a8c1a538783b)
+
+![Screenshot_20241228_124920](https://github.com/user-attachments/assets/502a206e-d3a9-4704-9286-e960da334655)
+
+![Screenshot_20241228_132219](https://github.com/user-attachments/assets/38ba5309-c608-4dc9-9ecb-992d2f298242)
+
 ## Features
 
 1. **Real-Time Emotion Detection**: 
